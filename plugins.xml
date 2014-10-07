@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='plugins.xsl' ?>
+<plugins>
+   <pyqgis_plugin name='VectorSelectByPoint' version='0.1'>
+    <description>maps malnutrition info from query data</description>
+    <version>0.1</version>
+    <qgis_minimum_version>2.0.0</qgis_minimum_version>
+    <file_name>KtnyTracker.zip</file_name>
+    <author_name>Alec Cosotn</author_name>
+    <download_url>https://github.com/aleccoston/NTFP-Malnutrition-Projectv2/blob/master/KtnyTracker.zip</download_url>
+    <uploaded_by>Alec Coston</uploaded_by>
+    <create_date>2014-07-01</create_date>
+    <update_date>2014-10-08</update_date>
+  </pyqgis_plugin> 
+</plugins>
