@@ -6,7 +6,7 @@
    <pyqgis_plugin name='VectorSelectByPoint' version='0.1'>
     <description>click to go to various geo web services</description>
     <version>0.1</version>
-    <qgis_minimum_version>1.0.0</qgis_minimum_version>
+    <qgis_minimum_version>2.0.0</qgis_minimum_version>
     <homepage>http://www.maths.lancs.ac.uk/~rowlings/Qgis/Plugins/Documentation/clickfu</homepage>
     <file_name>VectorSelectByPoint.zip</file_name>
     <author_name>Alec Coston</author_name>
