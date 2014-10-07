@@ -10,6 +10,7 @@
         <icon>/static/packages/survey.png</icon>
         <author_name><![CDATA[Alec Coston]]></author_name>
         <download_url>https://github.com/aleccoston/NTFP-Malnutrition-Projectv2/blob/master/</download_url>
+	<repository><![CDATA[https://github.com/aleccoston/NTFP-Malnutrition-Projectv2/]]></repository>
     </pyqgis_plugin><pyqgis_plugin name="Acca plugin" version="0.3" plugin_id="186">
         <description><![CDATA[Plugin implements ACCA algorithm]]></description>
         <about></about>
