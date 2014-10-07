@@ -7,12 +7,12 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=vector_selectbypoint
+name=VectorSelectByPoint
 qgisMinimumVersion=2.0
-description=a simple example for plugin builder
+description=click to go to various geo web services
 version=0.1
 author=Meeeee!
-email=alec.coston@utsouthwestern.edu
+email=aleccoston@gmail.com
 
 # End of mandatory metadata
 
@@ -26,7 +26,7 @@ tags=
 
 homepage=
 tracker=
-repository=
+repository=https://github.com/aleccoston/NTFP-Malnutrition-Projectv2/
 icon=icon.png
 # experimental flag
 experimental=True
