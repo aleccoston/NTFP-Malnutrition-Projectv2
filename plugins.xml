@@ -5,7 +5,7 @@
      <Description> This is the test plugin </ description>
      <Qgis_minimum_version> 1.0 </ qgis_minimum_version>
      <File_name> VectorSelectByPoint2.zip </ file_name>
-     <Author_name> git-hub </ author_name>
+     <Author_name> Alec Coston </ author_name>
      <Download_url> http://gis-lab.info/programs/qgis/testplugin.zip </ download_url>    </pyqgis_plugin>
     </ Pyqgis_plugin>
 </plugins>
