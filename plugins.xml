@@ -6,6 +6,6 @@
      <Qgis_minimum_version> 1.0 </ qgis_minimum_version>
      <File_name> VectorSelectByPoint2.zip </ file_name>
      <Author_name> Alec Coston </ author_name>
-     <Download_url> http://gis-lab.info/programs/qgis/testplugin.zip </ download_url>    </pyqgis_plugin>
+     <Download_url> https://github.com/aleccoston/NTFP-Malnutrition-Projectv2/blob/master/VectorSelectByPoint2.zip </ download_url>
     </ Pyqgis_plugin>
 </plugins>
