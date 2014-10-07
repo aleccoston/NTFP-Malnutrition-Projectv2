@@ -4,8 +4,8 @@
     </pyqgis_plugin><Pyqgis_plugin name = "VectorSelectByPoint2" version = "0.1">
      <Description> This is the test plugin </ description>
      <Qgis_minimum_version> 1.0 </ qgis_minimum_version>
-     <File_name> VectorSelectByPoint2.zip </ file_name>
+     <File_name> VectorSelectByPoint.zip </ file_name>
      <Author_name> Alec Coston </ author_name>
-     <Download_url> https://github.com/aleccoston/NTFP-Malnutrition-Projectv2/blob/master/VectorSelectByPoint2.zip </ download_url>
+     <Download_url> https://github.com/aleccoston/NTFP-Malnutrition-Projectv2/blob/master/VectorSelectByPoint.zip </ download_url>
     </ Pyqgis_plugin>
 </plugins>
